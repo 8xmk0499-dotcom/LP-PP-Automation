@@ -1,8 +1,1 @@
-# Godrej Properties (GPL) Page Links for Automated Testing
-# Add your landing page or property page URLs below (one URL per line)
 
-https://www.godrejproperties.com/landing-page/raipur/plotted/godrej-greenvale-estate-intl/
-https://www.godrejproperties.com/landing-page/pune/residential/godrej-park-world-2/
-https://www.godrejproperties.com/landing-page/pune/residential/the-greenfront-godrej-park-world-2/
-https://www.godrejproperties.com/landing-page/pune/residential/godrej-elaris-2/
-https://www.godrejproperties.com/landing-page/pune/residential/godrej-UK3/
